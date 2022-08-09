@@ -1,0 +1,16 @@
+C:\Users\anikd\source\repos\1480. Running Sum of 1d Array\bin\Debug\net5.0\1480. Running Sum of 1d Array.exe
+C:\Users\anikd\source\repos\1480. Running Sum of 1d Array\bin\Debug\net5.0\1480. Running Sum of 1d Array.deps.json
+C:\Users\anikd\source\repos\1480. Running Sum of 1d Array\bin\Debug\net5.0\1480. Running Sum of 1d Array.runtimeconfig.json
+C:\Users\anikd\source\repos\1480. Running Sum of 1d Array\bin\Debug\net5.0\1480. Running Sum of 1d Array.runtimeconfig.dev.json
+C:\Users\anikd\source\repos\1480. Running Sum of 1d Array\bin\Debug\net5.0\1480. Running Sum of 1d Array.dll
+C:\Users\anikd\source\repos\1480. Running Sum of 1d Array\bin\Debug\net5.0\1480. Running Sum of 1d Array.pdb
+C:\Users\anikd\source\repos\1480. Running Sum of 1d Array\obj\Debug\net5.0\1480. Running Sum of 1d Array.csproj.AssemblyReference.cache
+C:\Users\anikd\source\repos\1480. Running Sum of 1d Array\obj\Debug\net5.0\1480. Running Sum of 1d Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anikd\source\repos\1480. Running Sum of 1d Array\obj\Debug\net5.0\1480. Running Sum of 1d Array.AssemblyInfoInputs.cache
+C:\Users\anikd\source\repos\1480. Running Sum of 1d Array\obj\Debug\net5.0\1480. Running Sum of 1d Array.AssemblyInfo.cs
+C:\Users\anikd\source\repos\1480. Running Sum of 1d Array\obj\Debug\net5.0\1480. Running Sum of 1d Array.csproj.CoreCompileInputs.cache
+C:\Users\anikd\source\repos\1480. Running Sum of 1d Array\obj\Debug\net5.0\1480. Running Sum of 1d Array.dll
+C:\Users\anikd\source\repos\1480. Running Sum of 1d Array\obj\Debug\net5.0\refint\1480. Running Sum of 1d Array.dll
+C:\Users\anikd\source\repos\1480. Running Sum of 1d Array\obj\Debug\net5.0\1480. Running Sum of 1d Array.pdb
+C:\Users\anikd\source\repos\1480. Running Sum of 1d Array\obj\Debug\net5.0\1480. Running Sum of 1d Array.genruntimeconfig.cache
+C:\Users\anikd\source\repos\1480. Running Sum of 1d Array\obj\Debug\net5.0\ref\1480. Running Sum of 1d Array.dll

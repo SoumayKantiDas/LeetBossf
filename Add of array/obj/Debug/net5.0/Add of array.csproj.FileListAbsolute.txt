@@ -1,0 +1,16 @@
+C:\Users\anikd\source\repos\Add of array\bin\Debug\net5.0\Add of array.exe
+C:\Users\anikd\source\repos\Add of array\bin\Debug\net5.0\Add of array.deps.json
+C:\Users\anikd\source\repos\Add of array\bin\Debug\net5.0\Add of array.runtimeconfig.json
+C:\Users\anikd\source\repos\Add of array\bin\Debug\net5.0\Add of array.runtimeconfig.dev.json
+C:\Users\anikd\source\repos\Add of array\bin\Debug\net5.0\Add of array.dll
+C:\Users\anikd\source\repos\Add of array\bin\Debug\net5.0\Add of array.pdb
+C:\Users\anikd\source\repos\Add of array\obj\Debug\net5.0\Add of array.csproj.AssemblyReference.cache
+C:\Users\anikd\source\repos\Add of array\obj\Debug\net5.0\Add of array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anikd\source\repos\Add of array\obj\Debug\net5.0\Add of array.AssemblyInfoInputs.cache
+C:\Users\anikd\source\repos\Add of array\obj\Debug\net5.0\Add of array.AssemblyInfo.cs
+C:\Users\anikd\source\repos\Add of array\obj\Debug\net5.0\Add of array.csproj.CoreCompileInputs.cache
+C:\Users\anikd\source\repos\Add of array\obj\Debug\net5.0\Add of array.dll
+C:\Users\anikd\source\repos\Add of array\obj\Debug\net5.0\refint\Add of array.dll
+C:\Users\anikd\source\repos\Add of array\obj\Debug\net5.0\Add of array.pdb
+C:\Users\anikd\source\repos\Add of array\obj\Debug\net5.0\Add of array.genruntimeconfig.cache
+C:\Users\anikd\source\repos\Add of array\obj\Debug\net5.0\ref\Add of array.dll

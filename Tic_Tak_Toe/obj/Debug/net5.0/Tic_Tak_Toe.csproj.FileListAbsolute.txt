@@ -1,0 +1,16 @@
+C:\Users\anikd\source\repos\Tic_Tak_Toe\bin\Debug\net5.0\Tic_Tak_Toe.exe
+C:\Users\anikd\source\repos\Tic_Tak_Toe\bin\Debug\net5.0\Tic_Tak_Toe.deps.json
+C:\Users\anikd\source\repos\Tic_Tak_Toe\bin\Debug\net5.0\Tic_Tak_Toe.runtimeconfig.json
+C:\Users\anikd\source\repos\Tic_Tak_Toe\bin\Debug\net5.0\Tic_Tak_Toe.runtimeconfig.dev.json
+C:\Users\anikd\source\repos\Tic_Tak_Toe\bin\Debug\net5.0\Tic_Tak_Toe.dll
+C:\Users\anikd\source\repos\Tic_Tak_Toe\bin\Debug\net5.0\Tic_Tak_Toe.pdb
+C:\Users\anikd\source\repos\Tic_Tak_Toe\obj\Debug\net5.0\Tic_Tak_Toe.csproj.AssemblyReference.cache
+C:\Users\anikd\source\repos\Tic_Tak_Toe\obj\Debug\net5.0\Tic_Tak_Toe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anikd\source\repos\Tic_Tak_Toe\obj\Debug\net5.0\Tic_Tak_Toe.AssemblyInfoInputs.cache
+C:\Users\anikd\source\repos\Tic_Tak_Toe\obj\Debug\net5.0\Tic_Tak_Toe.AssemblyInfo.cs
+C:\Users\anikd\source\repos\Tic_Tak_Toe\obj\Debug\net5.0\Tic_Tak_Toe.csproj.CoreCompileInputs.cache
+C:\Users\anikd\source\repos\Tic_Tak_Toe\obj\Debug\net5.0\Tic_Tak_Toe.dll
+C:\Users\anikd\source\repos\Tic_Tak_Toe\obj\Debug\net5.0\refint\Tic_Tak_Toe.dll
+C:\Users\anikd\source\repos\Tic_Tak_Toe\obj\Debug\net5.0\Tic_Tak_Toe.pdb
+C:\Users\anikd\source\repos\Tic_Tak_Toe\obj\Debug\net5.0\Tic_Tak_Toe.genruntimeconfig.cache
+C:\Users\anikd\source\repos\Tic_Tak_Toe\obj\Debug\net5.0\ref\Tic_Tak_Toe.dll

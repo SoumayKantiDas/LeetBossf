@@ -1,0 +1,16 @@
+C:\Users\anikd\source\repos\ArrayMus\bin\Debug\net5.0\ArrayMus.exe
+C:\Users\anikd\source\repos\ArrayMus\bin\Debug\net5.0\ArrayMus.deps.json
+C:\Users\anikd\source\repos\ArrayMus\bin\Debug\net5.0\ArrayMus.runtimeconfig.json
+C:\Users\anikd\source\repos\ArrayMus\bin\Debug\net5.0\ArrayMus.runtimeconfig.dev.json
+C:\Users\anikd\source\repos\ArrayMus\bin\Debug\net5.0\ArrayMus.dll
+C:\Users\anikd\source\repos\ArrayMus\bin\Debug\net5.0\ArrayMus.pdb
+C:\Users\anikd\source\repos\ArrayMus\obj\Debug\net5.0\ArrayMus.csproj.AssemblyReference.cache
+C:\Users\anikd\source\repos\ArrayMus\obj\Debug\net5.0\ArrayMus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anikd\source\repos\ArrayMus\obj\Debug\net5.0\ArrayMus.AssemblyInfoInputs.cache
+C:\Users\anikd\source\repos\ArrayMus\obj\Debug\net5.0\ArrayMus.AssemblyInfo.cs
+C:\Users\anikd\source\repos\ArrayMus\obj\Debug\net5.0\ArrayMus.csproj.CoreCompileInputs.cache
+C:\Users\anikd\source\repos\ArrayMus\obj\Debug\net5.0\ArrayMus.dll
+C:\Users\anikd\source\repos\ArrayMus\obj\Debug\net5.0\refint\ArrayMus.dll
+C:\Users\anikd\source\repos\ArrayMus\obj\Debug\net5.0\ArrayMus.pdb
+C:\Users\anikd\source\repos\ArrayMus\obj\Debug\net5.0\ArrayMus.genruntimeconfig.cache
+C:\Users\anikd\source\repos\ArrayMus\obj\Debug\net5.0\ref\ArrayMus.dll
